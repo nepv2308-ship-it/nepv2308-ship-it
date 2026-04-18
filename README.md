@@ -18,7 +18,45 @@ Aquí tienes algunas de las tecnologías que he dominado durante mi formación:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## 🎯 Mis Intereses Tecnológicos
+
+<table border="0">
+ <tr>
+  <td>
+   <img src="https://img.shields.io/badge/Desarrollo_de_Software-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Software Development" />
+   <br>
+   <i>Creando soluciones lógicas y automatizaciones eficientes.</i>
+  </td>
+  <td>
+   <img src="https://img.shields.io/badge/Redes_Informáticas-36B37E?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+   <br>
+   <i>Arquitectura y conectividad para sistemas robustos.</i>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src="https://img.shields.io/badge/Seguridad_Informática-E74C3C?style=for-the-badge&logo=target&logoColor=white" alt="Security" />
+   <br>
+   <i>Protección de datos y gestión de vulnerabilidades.</i>
+  </td>
+  <td>
+   <img src="https://img.shields.io/badge/Gestión_de_Bases_de_Datos-F39C12?style=for-the-badge&logo=sqlite&logoColor=white" alt="Databases" />
+   <br>
+   <i>Modelado, integridad y optimización de información.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" align="center">
+   <img src="https://img.shields.io/badge/Soporte_Técnico-7F8C8D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Technical Support" />
+   <br>
+   <i>Resolución de problemas y mantenimiento de continuidad operativa.</i>
+  </td>
+ </tr>
+</table>
+
+---
 ## Proyectos destacados
 
 ### 🚀 Asistencia_indi
@@ -32,7 +70,7 @@ Un pequeño sistema que gestiona las entradas y salidas de estudiantes de una in
 ¿Te gustaría charlar sobre tecnología o colaborar en algún proyecto? ¡Hablemos!
 
 * **LinkedIn:** https://www.linkedin.com/in/nelson-pe%C3%B1a-/
-* **Correo electrónico:** nelson.eliesel.pena@clases.edu.sv]## 👋
+* **Correo electrónico:** nelson.eliesel.pena@clases.edu.sv👋
 
 <!--
 **nepv2308-ship-it/nepv2308-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
