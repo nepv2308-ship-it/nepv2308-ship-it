@@ -2,7 +2,7 @@
 # ¡Hola! Soy Nelson Peña 👋
 
 <p align="center">
-  <img src="https://imgur.com/a/F92VENi" alt="Banner de perfil" width="100%">
+  <img src="https://imgur.com/a/F92VENi](https://imgur.com/etRsHBV" alt="Banner de perfil" width="100%">
 </p>
 
 ## Sobre mí
