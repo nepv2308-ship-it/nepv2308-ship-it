@@ -5,9 +5,6 @@
   <img src="portada.PNG.png" alt="Banner de perfil" width="100%">
 </p>
 
-## Sobre mí
-...
-
 
 ## Sobre mí
 Soy docente del Ministerio de Educacion para la modalidad de Desarrollo de Software,  actualmente cursando el bootcamp de Transformación Digital Para la Docencia Técnica. Me encanta resolver problemas mediante el código y aprender nuevas formas de optimizar aplicaciones para mejorar la experiencia del usuario.
