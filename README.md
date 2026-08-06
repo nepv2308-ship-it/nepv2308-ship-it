@@ -25,7 +25,7 @@ En una de mis facetas más importantes, lidero el proyecto **Enlace Técnico**, 
 Te invito a explorar mi canal, donde comparto tutoriales, guías técnicas y contenido sobre desarrollo y tecnología:
 
 <p align="left">
-  <a href="https://www.youtube.com/@EnlaceTecnico" target="_blank">
+  <a href="https://www.youtube.com/@Enlace-Tecnico" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Enlace_Técnico-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Enlace Técnico" />
   </a>
 </p>
@@ -74,7 +74,7 @@ Sistema enfocado en optimizar la gestión de control de entradas y salidas de es
 ¿Interesado en colaborar, compartir experiencias pedagógicas, contenido tecnológico o proyectos de desarrollo? ¡Conectemos!
 
 <p align="left">
-  <a href="https://www.youtube.com/@EnlaceTecnico" target="_blank">
+  <a href="https://www.youtube.com/@Enlace-Tecnico" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/nelson-pe%C3%B1a-/" target="_blank">
