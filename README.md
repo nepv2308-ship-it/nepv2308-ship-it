@@ -2,7 +2,7 @@
 # ¡Hola! Soy Nelson Peña 👋
 
 <p align="center">
-  <img src="portada.PNG.png" alt="Banner de perfil" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,10:36B37E&height=200&section=header&text=Nelson%20Peña&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner Nelson Peña" width="100%">
 </p>
 
 
